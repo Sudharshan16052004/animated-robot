@@ -3,5 +3,6 @@ int main(){
     int a=26;
     int b=25;
     int c;
-    printf("c= "a+b)
+	int d=27;
+    printf("c= "a+b+d);
 }
